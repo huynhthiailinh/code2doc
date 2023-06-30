@@ -3,10 +3,6 @@
 # File Name : bleu.py
 #
 # Description : Wrapper for BLEU scorer.
-#
-# Creation Date : 06-01-2015
-# Last Modified : Thu 19 Mar 2015 09:13:28 PM PDT
-# Authors : Hao Fang <hfang@uw.edu> and Tsung-Yi Lin <tl483@cornell.edu>
 
 from c2nl.eval.bleu.bleu_scorer import BleuScorer
 
