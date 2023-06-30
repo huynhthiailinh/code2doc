@@ -36,7 +36,6 @@ class Rouge():
     '''
 
     def __init__(self):
-        # vrama91: updated the value below based on discussion with Hovey
         self.beta = 1.2
 
     def calc_score(self, candidate, refs):
